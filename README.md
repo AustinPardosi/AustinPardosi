@@ -8,8 +8,8 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🏫 Currently a Year 3 Student at Bandung Institute of Technology in the field of Informatics Engineering
-- 💻 Exploring different CS fields, including Full-Stack Web Development, Artificial Intelligence, and Machine Learning
+- 🏫 Currently a Final Year Student at Bandung Institute of Technology in the field of Informatics Engineering
+- 💻 Exploring different CS fields, including Software Engineering, Artificial Intelligence, and Machine Learning
 - 📈 Passionate about solving real-world problems through technology
 
 </div>
