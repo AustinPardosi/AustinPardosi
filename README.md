@@ -8,7 +8,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🏫 Currently a Final Year Student at Bandung Institute of Technology in the field of Informatics Engineering
+- 🏫 Currently a Backend Engineer at Bytedance
 - 💻 Exploring different CS fields, including Software Engineering, Artificial Intelligence, and Machine Learning
 - 📈 Passionate about solving real-world problems through technology
 
